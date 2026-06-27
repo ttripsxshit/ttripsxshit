@@ -11,7 +11,7 @@ Building custom automation solutions with Python for businesses.
 * Telegram Bots
 * AI Assistants & AI Agents
 * CRM & Booking Systems
-* Business Process Automation
+* Business Automation
 * API Integrations
 
 ---
