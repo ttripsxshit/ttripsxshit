@@ -2,18 +2,19 @@
 
 ### Automation. AI. Systems.
 
-Building custom automation solutions with Python for businesses.
+Custom software for modern businesses.
+
+Building automation solutions with Python.
 
 ---
 
 ## Expertise
 
-* Telegram Bots
-* AI Assistants & AI Agents
-* CRM & Booking Systems
-* Business Automation
-* API Integrations
+- Telegram Bots
+- AI Agents
+- CRM & Booking Systems
+- Business Automation
 
 ---
 
-Creating solutions that automate routine work, improve customer experience and help businesses scale.
+Automation that saves time and scales businesses.
